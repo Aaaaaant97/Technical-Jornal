@@ -1,6 +1,6 @@
 # 用Conda管理环境
 
-## 安装Miniconda
+## 安装Miniconda(MacOS M芯片架构)
 
 - 下载miniconda installer(gpt tells me)
 
