@@ -1,0 +1,1 @@
+# This is a collection of records documenting my technical learning process
