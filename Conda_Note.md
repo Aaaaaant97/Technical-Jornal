@@ -33,6 +33,12 @@
   conda activate myenv
   ```
 
+## 退出当前环境
+
+  ```bash
+  conda deactivate
+  ```
+
 ## 设置下载channel
 
   ```bash
